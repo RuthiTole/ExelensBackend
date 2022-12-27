@@ -1,0 +1,675 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="rutiAndSariProjectModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ActiveCard">
+    <Key>
+      <PropertyRef Name="IdActiveCards" />
+    </Key>
+    <Property Name="IdActiveCards" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SumInCard" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="ValidityDate" Type="DateTime" Precision="0" />
+    <Property Name="IdClient" Type="Int32" />
+    <Property Name="IdGiftCard" Type="Int32" />
+    <NavigationProperty Name="Client" Relationship="Self.FK__ActiveCar__IdCli__52593CB8" FromRole="ActiveCards" ToRole="Clients" />
+    <NavigationProperty Name="GiftCardToBusiness" Relationship="Self.FK__ActiveCar__IdGif__534D60F1" FromRole="ActiveCards" ToRole="GiftCardToBusiness" />
+    <NavigationProperty Name="GiftCardToBusiness1" Relationship="Self.FK__ActiveCar__IdGif__5441852A" FromRole="ActiveCards" ToRole="GiftCardToBusiness" />
+  </EntityType>
+  <EntityType Name="Business">
+    <Key>
+      <PropertyRef Name="IdBusiness" />
+    </Key>
+    <Property Name="IdBusiness" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="LogoBusiness" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="IdCategory" Type="Int32" />
+    <Property Name="NameBusiness" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="PriceClub" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="Validity" Type="Int32" />
+    <Property Name="Phone" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="EmailBusiness" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="PasswordBusiness" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="UserName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="CardsPerStores" Relationship="Self.FK__CardsPerS__IdBus__5535A963" FromRole="Business" ToRole="CardsPerStore" />
+    <NavigationProperty Name="CardsPerStores1" Relationship="Self.FK__CardsPerS__IdBus__5629CD9C" FromRole="Business" ToRole="CardsPerStore" />
+    <NavigationProperty Name="CategoryToBusinesses" Relationship="Self.FK__CategoryT__IdBus__59063A47" FromRole="Business" ToRole="CategoryToBusiness" />
+    <NavigationProperty Name="CategoryToBusinesses1" Relationship="Self.FK__CategoryT__IdBus__59FA5E80" FromRole="Business" ToRole="CategoryToBusiness" />
+    <NavigationProperty Name="Clients" Relationship="Self.FK__Clients__IdBusin__5CD6CB2B" FromRole="Business" ToRole="Clients" />
+    <NavigationProperty Name="Clients1" Relationship="Self.FK__Clients__IdBusin__5DCAEF64" FromRole="Business" ToRole="Clients" />
+    <NavigationProperty Name="ClientToBusinesses" Relationship="Self.FK__ClientToB__IdBus__5EBF139D" FromRole="Business" ToRole="ClientToBusiness" />
+    <NavigationProperty Name="ClientToBusinesses1" Relationship="Self.FK__ClientToB__IdBus__5FB337D6" FromRole="Business" ToRole="ClientToBusiness" />
+    <NavigationProperty Name="GiftCardToBusinesses" Relationship="Self.FK__GiftCardT__IdBus__619B8048" FromRole="Business" ToRole="GiftCardToBusiness" />
+    <NavigationProperty Name="GiftCardToBusinesses1" Relationship="Self.FK__GiftCardT__IdBus__628FA481" FromRole="Business" ToRole="GiftCardToBusiness" />
+    <NavigationProperty Name="Sales" Relationship="Self.FK__Sales__IdBusines__68487DD7" FromRole="Business" ToRole="Sales" />
+    <NavigationProperty Name="Sales1" Relationship="Self.FK__Sales__IdBusines__693CA210" FromRole="Business" ToRole="Sales" />
+    <NavigationProperty Name="Stores" Relationship="Self.FK__Stores__idBusine__01142BA1" FromRole="Business" ToRole="Stores" />
+  </EntityType>
+  <EntityType Name="CardsPerStore">
+    <Key>
+      <PropertyRef Name="IdCardsPerStore" />
+    </Key>
+    <Property Name="IdCardsPerStore" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdBusiness" Type="Int32" />
+    <Property Name="IdGiftCard" Type="Int32" />
+    <NavigationProperty Name="Business" Relationship="Self.FK__CardsPerS__IdBus__5535A963" FromRole="CardsPerStore" ToRole="Business" />
+    <NavigationProperty Name="Business1" Relationship="Self.FK__CardsPerS__IdBus__5629CD9C" FromRole="CardsPerStore" ToRole="Business" />
+    <NavigationProperty Name="KindGiftCard" Relationship="Self.FK__CardsPerS__IdGif__571DF1D5" FromRole="CardsPerStore" ToRole="KindGiftCard" />
+    <NavigationProperty Name="KindGiftCard1" Relationship="Self.FK__CardsPerS__IdGif__5812160E" FromRole="CardsPerStore" ToRole="KindGiftCard" />
+  </EntityType>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="IdCategory" />
+    </Key>
+    <Property Name="IdCategory" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="CategoryToBusinesses" Relationship="Self.FK__CategoryT__IdCat__5AEE82B9" FromRole="Categories" ToRole="CategoryToBusiness" />
+    <NavigationProperty Name="CategoryToBusinesses1" Relationship="Self.FK__CategoryT__IdCat__5BE2A6F2" FromRole="Categories" ToRole="CategoryToBusiness" />
+  </EntityType>
+  <EntityType Name="CategoryToBusiness">
+    <Key>
+      <PropertyRef Name="IdCategoryToBusiness" />
+    </Key>
+    <Property Name="IdCategoryToBusiness" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdCategory" Type="Int32" />
+    <Property Name="IdBusiness" Type="Int32" />
+    <NavigationProperty Name="Business" Relationship="Self.FK__CategoryT__IdBus__59063A47" FromRole="CategoryToBusiness" ToRole="Business" />
+    <NavigationProperty Name="Business1" Relationship="Self.FK__CategoryT__IdBus__59FA5E80" FromRole="CategoryToBusiness" ToRole="Business" />
+    <NavigationProperty Name="Category" Relationship="Self.FK__CategoryT__IdCat__5AEE82B9" FromRole="CategoryToBusiness" ToRole="Categories" />
+    <NavigationProperty Name="Category1" Relationship="Self.FK__CategoryT__IdCat__5BE2A6F2" FromRole="CategoryToBusiness" ToRole="Categories" />
+  </EntityType>
+  <EntityType Name="Client">
+    <Key>
+      <PropertyRef Name="IdClient" />
+    </Key>
+    <Property Name="IdClient" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BornDateClient" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="TzClient" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NameClient" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="PhoneClient" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="EmailClient" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="PasswordClient" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="IdBusiness" Type="Int32" />
+    <Property Name="UserName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="AdressClient" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Lat" Type="Double" />
+    <Property Name="Lng" Type="Double" />
+    <NavigationProperty Name="ActiveCards" Relationship="Self.FK__ActiveCar__IdCli__52593CB8" FromRole="Clients" ToRole="ActiveCards" />
+    <NavigationProperty Name="Business" Relationship="Self.FK__Clients__IdBusin__5CD6CB2B" FromRole="Clients" ToRole="Business" />
+    <NavigationProperty Name="Business1" Relationship="Self.FK__Clients__IdBusin__5DCAEF64" FromRole="Clients" ToRole="Business" />
+    <NavigationProperty Name="ClientToBusinesses" Relationship="Self.FK__ClientToB__IdCli__59FA5E80" FromRole="Clients" ToRole="ClientToBusiness" />
+  </EntityType>
+  <EntityType Name="ClientToBusiness">
+    <Key>
+      <PropertyRef Name="IdClientToBusiness" />
+    </Key>
+    <Property Name="IdClientToBusiness" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdBusiness" Type="Int32" />
+    <Property Name="IdClient" Type="Int32" />
+    <Property Name="EnterDate" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Business" Relationship="Self.FK__ClientToB__IdBus__5EBF139D" FromRole="ClientToBusiness" ToRole="Business" />
+    <NavigationProperty Name="Business1" Relationship="Self.FK__ClientToB__IdBus__5FB337D6" FromRole="ClientToBusiness" ToRole="Business" />
+    <NavigationProperty Name="Client" Relationship="Self.FK__ClientToB__IdCli__59FA5E80" FromRole="ClientToBusiness" ToRole="Clients" />
+  </EntityType>
+  <EntityType Name="DayInWeek">
+    <Key>
+      <PropertyRef Name="IdDay" />
+    </Key>
+    <Property Name="IdDay" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameDay" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="OpenHours" Relationship="Self.FK__OpenHours__IdDay__5CD6CB2B" FromRole="DayInWeek" ToRole="OpenHours" />
+  </EntityType>
+  <EntityType Name="GiftCardToBusiness">
+    <Key>
+      <PropertyRef Name="IdGiftCardToBusiness" />
+    </Key>
+    <Property Name="IdGiftCardToBusiness" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdGiftCard" Type="Int32" />
+    <Property Name="IdBusiness" Type="Int32" />
+    <NavigationProperty Name="ActiveCards" Relationship="Self.FK__ActiveCar__IdGif__534D60F1" FromRole="GiftCardToBusiness" ToRole="ActiveCards" />
+    <NavigationProperty Name="ActiveCards1" Relationship="Self.FK__ActiveCar__IdGif__5441852A" FromRole="GiftCardToBusiness" ToRole="ActiveCards" />
+    <NavigationProperty Name="Business" Relationship="Self.FK__GiftCardT__IdBus__619B8048" FromRole="GiftCardToBusiness" ToRole="Business" />
+    <NavigationProperty Name="Business1" Relationship="Self.FK__GiftCardT__IdBus__628FA481" FromRole="GiftCardToBusiness" ToRole="Business" />
+    <NavigationProperty Name="KindGiftCard" Relationship="Self.FK__GiftCardT__IdGif__6383C8BA" FromRole="GiftCardToBusiness" ToRole="KindGiftCard" />
+    <NavigationProperty Name="KindGiftCard1" Relationship="Self.FK__GiftCardT__IdGif__6477ECF3" FromRole="GiftCardToBusiness" ToRole="KindGiftCard" />
+  </EntityType>
+  <EntityType Name="KindGiftCard">
+    <Key>
+      <PropertyRef Name="IdGiftCard" />
+    </Key>
+    <Property Name="IdGiftCard" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameGiftCard" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LogoGiftCard" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="IsPublic" Type="Boolean" />
+    <NavigationProperty Name="CardsPerStores" Relationship="Self.FK__CardsPerS__IdGif__571DF1D5" FromRole="KindGiftCard" ToRole="CardsPerStore" />
+    <NavigationProperty Name="CardsPerStores1" Relationship="Self.FK__CardsPerS__IdGif__5812160E" FromRole="KindGiftCard" ToRole="CardsPerStore" />
+    <NavigationProperty Name="GiftCardToBusinesses" Relationship="Self.FK__GiftCardT__IdGif__6383C8BA" FromRole="KindGiftCard" ToRole="GiftCardToBusiness" />
+    <NavigationProperty Name="GiftCardToBusinesses1" Relationship="Self.FK__GiftCardT__IdGif__6477ECF3" FromRole="KindGiftCard" ToRole="GiftCardToBusiness" />
+  </EntityType>
+  <EntityType Name="KindSale">
+    <Key>
+      <PropertyRef Name="IdKindSale" />
+    </Key>
+    <Property Name="IdKindSale" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameKindSale" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Sales" Relationship="Self.FK__Sales__KindSale__6A30C649" FromRole="KindSales" ToRole="Sales" />
+    <NavigationProperty Name="Sales1" Relationship="Self.FK__Sales__KindSale__6B24EA82" FromRole="KindSales" ToRole="Sales" />
+  </EntityType>
+  <EntityType Name="OpenHour">
+    <Key>
+      <PropertyRef Name="IdOpenHours" />
+    </Key>
+    <Property Name="IdOpenHours" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdStore" Type="Int32" />
+    <Property Name="IdDay" Type="Int32" />
+    <Property Name="OpenTime" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="CloseTime" Type="Time" Nullable="false" Precision="7" />
+    <NavigationProperty Name="DayInWeek" Relationship="Self.FK__OpenHours__IdDay__5CD6CB2B" FromRole="OpenHours" ToRole="DayInWeek" />
+    <NavigationProperty Name="Store" Relationship="Self.FK__OpenHours__idSto__07C12930" FromRole="OpenHours" ToRole="Stores" />
+  </EntityType>
+  <EntityType Name="OpeningDate">
+    <Key>
+      <PropertyRef Name="IdOpenHours" />
+    </Key>
+    <Property Name="IdOpenHours" Type="Int32" Nullable="false" />
+    <Property Name="DateOpen" Type="DateTime" Precision="0" />
+    <Property Name="IsClosedAllDay" Type="Boolean" />
+    <Property Name="FromHour" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="ToHour" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="IdStore" Type="Int32" />
+    <NavigationProperty Name="Store" Relationship="Self.FK__OpeningDa__idSto__29221CFB" FromRole="OpeningDates" ToRole="Stores" />
+  </EntityType>
+  <EntityType Name="Sale">
+    <Key>
+      <PropertyRef Name="IdSale" />
+    </Key>
+    <Property Name="IdSale" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdBusiness" Type="Int32" />
+    <Property Name="KindSale" Type="Int32" />
+    <Property Name="DiscriptionSale" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="StartDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="EndDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="IsMember" Type="Boolean" />
+    <Property Name="IsValidity" Type="Boolean" />
+    <NavigationProperty Name="Business" Relationship="Self.FK__Sales__IdBusines__68487DD7" FromRole="Sales" ToRole="Business" />
+    <NavigationProperty Name="Business1" Relationship="Self.FK__Sales__IdBusines__693CA210" FromRole="Sales" ToRole="Business" />
+    <NavigationProperty Name="KindSale1" Relationship="Self.FK__Sales__KindSale__6A30C649" FromRole="Sales" ToRole="KindSales" />
+    <NavigationProperty Name="KindSale2" Relationship="Self.FK__Sales__KindSale__6B24EA82" FromRole="Sales" ToRole="KindSales" />
+  </EntityType>
+  <EntityType Name="Store">
+    <Key>
+      <PropertyRef Name="IdStore" />
+    </Key>
+    <Property Name="IdStore" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdBusiness" Type="Int32" />
+    <Property Name="WeekDayOpen" Type="Int32" Nullable="false" />
+    <Property Name="Lat" Type="Double" Nullable="false" />
+    <Property Name="Lng" Type="Double" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NameStore" Type="String" MaxLength="300" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Business" Relationship="Self.FK__Stores__idBusine__01142BA1" FromRole="Stores" ToRole="Business" />
+    <NavigationProperty Name="OpenHours" Relationship="Self.FK__OpenHours__idSto__07C12930" FromRole="Stores" ToRole="OpenHours" />
+    <NavigationProperty Name="OpeningDates" Relationship="Self.FK__OpeningDa__idSto__29221CFB" FromRole="Stores" ToRole="OpeningDates" />
+  </EntityType>
+  <Association Name="FK__ActiveCar__IdCli__52593CB8">
+    <End Role="Clients" Type="Self.Client" Multiplicity="0..1" />
+    <End Role="ActiveCards" Type="Self.ActiveCard" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clients">
+        <PropertyRef Name="IdClient" />
+      </Principal>
+      <Dependent Role="ActiveCards">
+        <PropertyRef Name="IdClient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ActiveCar__IdGif__534D60F1">
+    <End Role="GiftCardToBusiness" Type="Self.GiftCardToBusiness" Multiplicity="0..1" />
+    <End Role="ActiveCards" Type="Self.ActiveCard" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GiftCardToBusiness">
+        <PropertyRef Name="IdGiftCardToBusiness" />
+      </Principal>
+      <Dependent Role="ActiveCards">
+        <PropertyRef Name="IdGiftCard" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ActiveCar__IdGif__5441852A">
+    <End Role="GiftCardToBusiness" Type="Self.GiftCardToBusiness" Multiplicity="0..1" />
+    <End Role="ActiveCards" Type="Self.ActiveCard" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GiftCardToBusiness">
+        <PropertyRef Name="IdGiftCardToBusiness" />
+      </Principal>
+      <Dependent Role="ActiveCards">
+        <PropertyRef Name="IdGiftCard" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CardsPerS__IdBus__5535A963">
+    <End Role="Business" Type="Self.Business" Multiplicity="0..1" />
+    <End Role="CardsPerStore" Type="Self.CardsPerStore" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="IdBusiness" />
+      </Principal>
+      <Dependent Role="CardsPerStore">
+        <PropertyRef Name="IdBusiness" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CardsPerS__IdBus__5629CD9C">
+    <End Role="Business" Type="Self.Business" Multiplicity="0..1" />
+    <End Role="CardsPerStore" Type="Self.CardsPerStore" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="IdBusiness" />
+      </Principal>
+      <Dependent Role="CardsPerStore">
+        <PropertyRef Name="IdBusiness" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CategoryT__IdBus__59063A47">
+    <End Role="Business" Type="Self.Business" Multiplicity="0..1" />
+    <End Role="CategoryToBusiness" Type="Self.CategoryToBusiness" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="IdBusiness" />
+      </Principal>
+      <Dependent Role="CategoryToBusiness">
+        <PropertyRef Name="IdBusiness" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CategoryT__IdBus__59FA5E80">
+    <End Role="Business" Type="Self.Business" Multiplicity="0..1" />
+    <End Role="CategoryToBusiness" Type="Self.CategoryToBusiness" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="IdBusiness" />
+      </Principal>
+      <Dependent Role="CategoryToBusiness">
+        <PropertyRef Name="IdBusiness" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Clients__IdBusin__5CD6CB2B">
+    <End Role="Business" Type="Self.Business" Multiplicity="0..1" />
+    <End Role="Clients" Type="Self.Client" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="IdBusiness" />
+      </Principal>
+      <Dependent Role="Clients">
+        <PropertyRef Name="IdBusiness" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Clients__IdBusin__5DCAEF64">
+    <End Role="Business" Type="Self.Business" Multiplicity="0..1" />
+    <End Role="Clients" Type="Self.Client" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="IdBusiness" />
+      </Principal>
+      <Dependent Role="Clients">
+        <PropertyRef Name="IdBusiness" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ClientToB__IdBus__5EBF139D">
+    <End Role="Business" Type="Self.Business" Multiplicity="0..1" />
+    <End Role="ClientToBusiness" Type="Self.ClientToBusiness" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="IdBusiness" />
+      </Principal>
+      <Dependent Role="ClientToBusiness">
+        <PropertyRef Name="IdBusiness" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ClientToB__IdBus__5FB337D6">
+    <End Role="Business" Type="Self.Business" Multiplicity="0..1" />
+    <End Role="ClientToBusiness" Type="Self.ClientToBusiness" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="IdBusiness" />
+      </Principal>
+      <Dependent Role="ClientToBusiness">
+        <PropertyRef Name="IdBusiness" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__GiftCardT__IdBus__619B8048">
+    <End Role="Business" Type="Self.Business" Multiplicity="0..1" />
+    <End Role="GiftCardToBusiness" Type="Self.GiftCardToBusiness" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="IdBusiness" />
+      </Principal>
+      <Dependent Role="GiftCardToBusiness">
+        <PropertyRef Name="IdBusiness" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__GiftCardT__IdBus__628FA481">
+    <End Role="Business" Type="Self.Business" Multiplicity="0..1" />
+    <End Role="GiftCardToBusiness" Type="Self.GiftCardToBusiness" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="IdBusiness" />
+      </Principal>
+      <Dependent Role="GiftCardToBusiness">
+        <PropertyRef Name="IdBusiness" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Sales__IdBusines__68487DD7">
+    <End Role="Business" Type="Self.Business" Multiplicity="0..1" />
+    <End Role="Sales" Type="Self.Sale" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="IdBusiness" />
+      </Principal>
+      <Dependent Role="Sales">
+        <PropertyRef Name="IdBusiness" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Sales__IdBusines__693CA210">
+    <End Role="Business" Type="Self.Business" Multiplicity="0..1" />
+    <End Role="Sales" Type="Self.Sale" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="IdBusiness" />
+      </Principal>
+      <Dependent Role="Sales">
+        <PropertyRef Name="IdBusiness" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Stores__idBusine__01142BA1">
+    <End Role="Business" Type="Self.Business" Multiplicity="0..1" />
+    <End Role="Stores" Type="Self.Store" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="IdBusiness" />
+      </Principal>
+      <Dependent Role="Stores">
+        <PropertyRef Name="IdBusiness" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CardsPerS__IdGif__571DF1D5">
+    <End Role="KindGiftCard" Type="Self.KindGiftCard" Multiplicity="0..1" />
+    <End Role="CardsPerStore" Type="Self.CardsPerStore" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KindGiftCard">
+        <PropertyRef Name="IdGiftCard" />
+      </Principal>
+      <Dependent Role="CardsPerStore">
+        <PropertyRef Name="IdGiftCard" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CardsPerS__IdGif__5812160E">
+    <End Role="KindGiftCard" Type="Self.KindGiftCard" Multiplicity="0..1" />
+    <End Role="CardsPerStore" Type="Self.CardsPerStore" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KindGiftCard">
+        <PropertyRef Name="IdGiftCard" />
+      </Principal>
+      <Dependent Role="CardsPerStore">
+        <PropertyRef Name="IdGiftCard" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CategoryT__IdCat__5AEE82B9">
+    <End Role="Categories" Type="Self.Category" Multiplicity="0..1" />
+    <End Role="CategoryToBusiness" Type="Self.CategoryToBusiness" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categories">
+        <PropertyRef Name="IdCategory" />
+      </Principal>
+      <Dependent Role="CategoryToBusiness">
+        <PropertyRef Name="IdCategory" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CategoryT__IdCat__5BE2A6F2">
+    <End Role="Categories" Type="Self.Category" Multiplicity="0..1" />
+    <End Role="CategoryToBusiness" Type="Self.CategoryToBusiness" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categories">
+        <PropertyRef Name="IdCategory" />
+      </Principal>
+      <Dependent Role="CategoryToBusiness">
+        <PropertyRef Name="IdCategory" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ClientToB__IdCli__59FA5E80">
+    <End Role="Clients" Type="Self.Client" Multiplicity="0..1" />
+    <End Role="ClientToBusiness" Type="Self.ClientToBusiness" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clients">
+        <PropertyRef Name="IdClient" />
+      </Principal>
+      <Dependent Role="ClientToBusiness">
+        <PropertyRef Name="IdClient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__OpenHours__IdDay__5CD6CB2B">
+    <End Role="DayInWeek" Type="Self.DayInWeek" Multiplicity="0..1" />
+    <End Role="OpenHours" Type="Self.OpenHour" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DayInWeek">
+        <PropertyRef Name="IdDay" />
+      </Principal>
+      <Dependent Role="OpenHours">
+        <PropertyRef Name="IdDay" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__GiftCardT__IdGif__6383C8BA">
+    <End Role="KindGiftCard" Type="Self.KindGiftCard" Multiplicity="0..1" />
+    <End Role="GiftCardToBusiness" Type="Self.GiftCardToBusiness" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KindGiftCard">
+        <PropertyRef Name="IdGiftCard" />
+      </Principal>
+      <Dependent Role="GiftCardToBusiness">
+        <PropertyRef Name="IdGiftCard" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__GiftCardT__IdGif__6477ECF3">
+    <End Role="KindGiftCard" Type="Self.KindGiftCard" Multiplicity="0..1" />
+    <End Role="GiftCardToBusiness" Type="Self.GiftCardToBusiness" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KindGiftCard">
+        <PropertyRef Name="IdGiftCard" />
+      </Principal>
+      <Dependent Role="GiftCardToBusiness">
+        <PropertyRef Name="IdGiftCard" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Sales__KindSale__6A30C649">
+    <End Role="KindSales" Type="Self.KindSale" Multiplicity="0..1" />
+    <End Role="Sales" Type="Self.Sale" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KindSales">
+        <PropertyRef Name="IdKindSale" />
+      </Principal>
+      <Dependent Role="Sales">
+        <PropertyRef Name="KindSale" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Sales__KindSale__6B24EA82">
+    <End Role="KindSales" Type="Self.KindSale" Multiplicity="0..1" />
+    <End Role="Sales" Type="Self.Sale" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KindSales">
+        <PropertyRef Name="IdKindSale" />
+      </Principal>
+      <Dependent Role="Sales">
+        <PropertyRef Name="KindSale" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__OpenHours__idSto__07C12930">
+    <End Role="Stores" Type="Self.Store" Multiplicity="0..1" />
+    <End Role="OpenHours" Type="Self.OpenHour" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Stores">
+        <PropertyRef Name="IdStore" />
+      </Principal>
+      <Dependent Role="OpenHours">
+        <PropertyRef Name="IdStore" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__OpeningDa__idSto__29221CFB">
+    <End Role="Stores" Type="Self.Store" Multiplicity="0..1" />
+    <End Role="OpeningDates" Type="Self.OpeningDate" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Stores">
+        <PropertyRef Name="IdStore" />
+      </Principal>
+      <Dependent Role="OpeningDates">
+        <PropertyRef Name="IdStore" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="rutiAndSariProjectEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ActiveCards" EntityType="Self.ActiveCard" />
+    <EntitySet Name="Businesses" EntityType="Self.Business" />
+    <EntitySet Name="CardsPerStores" EntityType="Self.CardsPerStore" />
+    <EntitySet Name="Categories" EntityType="Self.Category" />
+    <EntitySet Name="CategoryToBusinesses" EntityType="Self.CategoryToBusiness" />
+    <EntitySet Name="Clients" EntityType="Self.Client" />
+    <EntitySet Name="ClientToBusinesses" EntityType="Self.ClientToBusiness" />
+    <EntitySet Name="DayInWeeks" EntityType="Self.DayInWeek" />
+    <EntitySet Name="GiftCardToBusinesses" EntityType="Self.GiftCardToBusiness" />
+    <EntitySet Name="KindGiftCards" EntityType="Self.KindGiftCard" />
+    <EntitySet Name="KindSales" EntityType="Self.KindSale" />
+    <EntitySet Name="OpenHours" EntityType="Self.OpenHour" />
+    <EntitySet Name="OpeningDates" EntityType="Self.OpeningDate" />
+    <EntitySet Name="Sales" EntityType="Self.Sale" />
+    <EntitySet Name="Stores" EntityType="Self.Store" />
+    <AssociationSet Name="FK__ActiveCar__IdCli__52593CB8" Association="Self.FK__ActiveCar__IdCli__52593CB8">
+      <End Role="Clients" EntitySet="Clients" />
+      <End Role="ActiveCards" EntitySet="ActiveCards" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ActiveCar__IdGif__534D60F1" Association="Self.FK__ActiveCar__IdGif__534D60F1">
+      <End Role="GiftCardToBusiness" EntitySet="GiftCardToBusinesses" />
+      <End Role="ActiveCards" EntitySet="ActiveCards" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ActiveCar__IdGif__5441852A" Association="Self.FK__ActiveCar__IdGif__5441852A">
+      <End Role="GiftCardToBusiness" EntitySet="GiftCardToBusinesses" />
+      <End Role="ActiveCards" EntitySet="ActiveCards" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CardsPerS__IdBus__5535A963" Association="Self.FK__CardsPerS__IdBus__5535A963">
+      <End Role="Business" EntitySet="Businesses" />
+      <End Role="CardsPerStore" EntitySet="CardsPerStores" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CardsPerS__IdBus__5629CD9C" Association="Self.FK__CardsPerS__IdBus__5629CD9C">
+      <End Role="Business" EntitySet="Businesses" />
+      <End Role="CardsPerStore" EntitySet="CardsPerStores" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CategoryT__IdBus__59063A47" Association="Self.FK__CategoryT__IdBus__59063A47">
+      <End Role="Business" EntitySet="Businesses" />
+      <End Role="CategoryToBusiness" EntitySet="CategoryToBusinesses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CategoryT__IdBus__59FA5E80" Association="Self.FK__CategoryT__IdBus__59FA5E80">
+      <End Role="Business" EntitySet="Businesses" />
+      <End Role="CategoryToBusiness" EntitySet="CategoryToBusinesses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Clients__IdBusin__5CD6CB2B" Association="Self.FK__Clients__IdBusin__5CD6CB2B">
+      <End Role="Business" EntitySet="Businesses" />
+      <End Role="Clients" EntitySet="Clients" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Clients__IdBusin__5DCAEF64" Association="Self.FK__Clients__IdBusin__5DCAEF64">
+      <End Role="Business" EntitySet="Businesses" />
+      <End Role="Clients" EntitySet="Clients" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ClientToB__IdBus__5EBF139D" Association="Self.FK__ClientToB__IdBus__5EBF139D">
+      <End Role="Business" EntitySet="Businesses" />
+      <End Role="ClientToBusiness" EntitySet="ClientToBusinesses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ClientToB__IdBus__5FB337D6" Association="Self.FK__ClientToB__IdBus__5FB337D6">
+      <End Role="Business" EntitySet="Businesses" />
+      <End Role="ClientToBusiness" EntitySet="ClientToBusinesses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__GiftCardT__IdBus__619B8048" Association="Self.FK__GiftCardT__IdBus__619B8048">
+      <End Role="Business" EntitySet="Businesses" />
+      <End Role="GiftCardToBusiness" EntitySet="GiftCardToBusinesses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__GiftCardT__IdBus__628FA481" Association="Self.FK__GiftCardT__IdBus__628FA481">
+      <End Role="Business" EntitySet="Businesses" />
+      <End Role="GiftCardToBusiness" EntitySet="GiftCardToBusinesses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Sales__IdBusines__68487DD7" Association="Self.FK__Sales__IdBusines__68487DD7">
+      <End Role="Business" EntitySet="Businesses" />
+      <End Role="Sales" EntitySet="Sales" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Sales__IdBusines__693CA210" Association="Self.FK__Sales__IdBusines__693CA210">
+      <End Role="Business" EntitySet="Businesses" />
+      <End Role="Sales" EntitySet="Sales" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Stores__idBusine__01142BA1" Association="Self.FK__Stores__idBusine__01142BA1">
+      <End Role="Business" EntitySet="Businesses" />
+      <End Role="Stores" EntitySet="Stores" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CardsPerS__IdGif__571DF1D5" Association="Self.FK__CardsPerS__IdGif__571DF1D5">
+      <End Role="KindGiftCard" EntitySet="KindGiftCards" />
+      <End Role="CardsPerStore" EntitySet="CardsPerStores" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CardsPerS__IdGif__5812160E" Association="Self.FK__CardsPerS__IdGif__5812160E">
+      <End Role="KindGiftCard" EntitySet="KindGiftCards" />
+      <End Role="CardsPerStore" EntitySet="CardsPerStores" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CategoryT__IdCat__5AEE82B9" Association="Self.FK__CategoryT__IdCat__5AEE82B9">
+      <End Role="Categories" EntitySet="Categories" />
+      <End Role="CategoryToBusiness" EntitySet="CategoryToBusinesses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CategoryT__IdCat__5BE2A6F2" Association="Self.FK__CategoryT__IdCat__5BE2A6F2">
+      <End Role="Categories" EntitySet="Categories" />
+      <End Role="CategoryToBusiness" EntitySet="CategoryToBusinesses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ClientToB__IdCli__59FA5E80" Association="Self.FK__ClientToB__IdCli__59FA5E80">
+      <End Role="Clients" EntitySet="Clients" />
+      <End Role="ClientToBusiness" EntitySet="ClientToBusinesses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__OpenHours__IdDay__5CD6CB2B" Association="Self.FK__OpenHours__IdDay__5CD6CB2B">
+      <End Role="DayInWeek" EntitySet="DayInWeeks" />
+      <End Role="OpenHours" EntitySet="OpenHours" />
+    </AssociationSet>
+    <AssociationSet Name="FK__GiftCardT__IdGif__6383C8BA" Association="Self.FK__GiftCardT__IdGif__6383C8BA">
+      <End Role="KindGiftCard" EntitySet="KindGiftCards" />
+      <End Role="GiftCardToBusiness" EntitySet="GiftCardToBusinesses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__GiftCardT__IdGif__6477ECF3" Association="Self.FK__GiftCardT__IdGif__6477ECF3">
+      <End Role="KindGiftCard" EntitySet="KindGiftCards" />
+      <End Role="GiftCardToBusiness" EntitySet="GiftCardToBusinesses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Sales__KindSale__6A30C649" Association="Self.FK__Sales__KindSale__6A30C649">
+      <End Role="KindSales" EntitySet="KindSales" />
+      <End Role="Sales" EntitySet="Sales" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Sales__KindSale__6B24EA82" Association="Self.FK__Sales__KindSale__6B24EA82">
+      <End Role="KindSales" EntitySet="KindSales" />
+      <End Role="Sales" EntitySet="Sales" />
+    </AssociationSet>
+    <AssociationSet Name="FK__OpenHours__idSto__07C12930" Association="Self.FK__OpenHours__idSto__07C12930">
+      <End Role="Stores" EntitySet="Stores" />
+      <End Role="OpenHours" EntitySet="OpenHours" />
+    </AssociationSet>
+    <AssociationSet Name="FK__OpeningDa__idSto__29221CFB" Association="Self.FK__OpeningDa__idSto__29221CFB">
+      <End Role="Stores" EntitySet="Stores" />
+      <End Role="OpeningDates" EntitySet="OpeningDates" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

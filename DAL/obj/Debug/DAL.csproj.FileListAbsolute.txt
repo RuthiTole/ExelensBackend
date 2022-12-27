@@ -1,0 +1,140 @@
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DAL\bin\Debug\DAL.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DAL\bin\Debug\DAL.pdb
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DAL\obj\Debug\DAL.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DAL\obj\Debug\DAL.pdb
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DAL\bin\Debug\DAL.dll.config
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DAL\bin\Debug\DTO.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DAL\bin\Debug\EntityFramework.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DAL\bin\Debug\DTO.pdb
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DAL\bin\Debug\EntityFramework.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user1\Desktop\project\ClubMembersProject\DAL\bin\Debug\DAL.dll.config
+C:\Users\user1\Desktop\project\ClubMembersProject\DAL\bin\Debug\DAL.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\DAL\bin\Debug\DAL.pdb
+C:\Users\user1\Desktop\project\ClubMembersProject\DAL\bin\Debug\DTO.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\DAL\bin\Debug\DTO.pdb
+C:\Users\user1\Desktop\project\ClubMembersProject\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\project\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\project\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user1\Desktop\project\ClubMembersProject\DAL\obj\Debug\DAL.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\DAL\obj\Debug\DAL.pdb
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DAL\bin\Debug\DAL.dll.config
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DAL\bin\Debug\DAL.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DAL\bin\Debug\DAL.pdb
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DAL\bin\Debug\DTO.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DAL\bin\Debug\EntityFramework.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DAL\bin\Debug\DTO.pdb
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DAL\bin\Debug\EntityFramework.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DAL\obj\Debug\DAL.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DAL\obj\Debug\DAL.pdb
+D:\finalProject\ClubMembersProject\DAL\bin\Debug\DAL.dll.config
+D:\finalProject\ClubMembersProject\DAL\bin\Debug\DAL.dll
+D:\finalProject\ClubMembersProject\DAL\bin\Debug\DAL.pdb
+D:\finalProject\ClubMembersProject\DAL\bin\Debug\DTO.dll
+D:\finalProject\ClubMembersProject\DAL\bin\Debug\EntityFramework.dll
+D:\finalProject\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\finalProject\ClubMembersProject\DAL\bin\Debug\DTO.pdb
+D:\finalProject\ClubMembersProject\DAL\bin\Debug\EntityFramework.xml
+D:\finalProject\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\finalProject\ClubMembersProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\finalProject\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\finalProject\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\finalProject\ClubMembersProject\DAL\obj\Debug\DAL.dll
+D:\finalProject\ClubMembersProject\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DAL\bin\Debug\DAL.dll.config
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DAL\bin\Debug\DAL.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DAL\bin\Debug\DAL.pdb
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DAL\bin\Debug\DTO.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DAL\bin\Debug\DTO.pdb
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DAL\obj\Debug\DAL.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Desktop\final project\ClubMembersProject\DAL\bin\Debug\DAL.dll.config
+C:\Users\user1\Desktop\final project\ClubMembersProject\DAL\bin\Debug\DAL.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\DAL\bin\Debug\DAL.pdb
+C:\Users\user1\Desktop\final project\ClubMembersProject\DAL\bin\Debug\DTO.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\DAL\bin\Debug\DTO.pdb
+C:\Users\user1\Desktop\final project\ClubMembersProject\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\final project\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\final project\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user1\Desktop\final project\ClubMembersProject\DAL\obj\Debug\DAL.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\DAL\obj\Debug\DAL.pdb
+D:\פרויקט\ClubMembersProject\DAL\bin\Debug\DAL.dll.config
+D:\פרויקט\ClubMembersProject\DAL\bin\Debug\DAL.dll
+D:\פרויקט\ClubMembersProject\DAL\bin\Debug\DAL.pdb
+D:\פרויקט\ClubMembersProject\DAL\bin\Debug\DTO.dll
+D:\פרויקט\ClubMembersProject\DAL\bin\Debug\EntityFramework.dll
+D:\פרויקט\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\פרויקט\ClubMembersProject\DAL\bin\Debug\DTO.pdb
+D:\פרויקט\ClubMembersProject\DAL\bin\Debug\EntityFramework.xml
+D:\פרויקט\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\פרויקט\ClubMembersProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\פרויקט\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\פרויקט\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\פרויקט\ClubMembersProject\DAL\obj\Debug\DAL.dll
+D:\פרויקט\ClubMembersProject\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DAL\bin\Debug\DAL.dll.config
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DAL\bin\Debug\DAL.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DAL\bin\Debug\DAL.pdb
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DAL\bin\Debug\DTO.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DAL\bin\Debug\DTO.pdb
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DAL\obj\Debug\DAL.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Desktop\‏‏תיקיה חדשה (2)\ClubMembersProject\DAL\bin\Debug\DAL.dll.config
+C:\Users\user1\Desktop\‏‏תיקיה חדשה (2)\ClubMembersProject\DAL\bin\Debug\DAL.dll
+C:\Users\user1\Desktop\‏‏תיקיה חדשה (2)\ClubMembersProject\DAL\bin\Debug\DAL.pdb
+C:\Users\user1\Desktop\‏‏תיקיה חדשה (2)\ClubMembersProject\DAL\bin\Debug\DTO.dll
+C:\Users\user1\Desktop\‏‏תיקיה חדשה (2)\ClubMembersProject\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\‏‏תיקיה חדשה (2)\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\‏‏תיקיה חדשה (2)\ClubMembersProject\DAL\bin\Debug\DTO.pdb
+C:\Users\user1\Desktop\‏‏תיקיה חדשה (2)\ClubMembersProject\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\‏‏תיקיה חדשה (2)\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\‏‏תיקיה חדשה (2)\ClubMembersProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\‏‏תיקיה חדשה (2)\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\‏‏תיקיה חדשה (2)\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user1\Desktop\‏‏תיקיה חדשה (2)\ClubMembersProject\DAL\obj\Debug\DAL.dll
+C:\Users\user1\Desktop\‏‏תיקיה חדשה (2)\ClubMembersProject\DAL\obj\Debug\DAL.pdb
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DAL\bin\Debug\DAL.dll.config
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DAL\bin\Debug\DAL.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DAL\bin\Debug\DAL.pdb
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DAL\bin\Debug\DTO.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DAL\bin\Debug\DTO.pdb
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DAL\obj\Debug\DAL.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DAL\obj\Debug\DAL.pdb

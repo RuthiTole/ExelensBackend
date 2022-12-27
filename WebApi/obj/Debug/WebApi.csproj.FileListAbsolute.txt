@@ -1,0 +1,1112 @@
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\ApplicationInsights.config
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\WebApi.dll.config
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\WebApi.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\WebApi.pdb
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\csc.exe
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\csc.exe.config
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\csc.rsp
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\csi.exe
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\csi.exe.config
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\csi.rsp
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.AppContext.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.Collections.Immutable.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.Console.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.IO.Compression.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.IO.FileSystem.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.IO.Pipes.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.Security.AccessControl.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.Security.Claims.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.ValueTuple.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XPath.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\vbc.exe
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\vbc.exe.config
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\vbc.rsp
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\VBCSCompiler.exe
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\roslyn\VBCSCompiler.exe.config
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\Antlr3.Runtime.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\BL.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\DTO.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\EntityFramework.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\EntityFramework.SqlServer.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\Microsoft.AI.Web.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\Microsoft.AI.WindowsServer.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\Microsoft.ApplicationInsights.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\Microsoft.Web.Infrastructure.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\Newtonsoft.Json.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Net.Http.Formatting.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.Helpers.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.Http.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.Http.WebHost.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.Mvc.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.Optimization.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.Razor.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.WebPages.Deployment.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.WebPages.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.WebPages.Razor.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\WebGrease.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\BL.pdb
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\DTO.pdb
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\EntityFramework.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\EntityFramework.SqlServer.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\Newtonsoft.Json.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Net.Http.Formatting.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.Helpers.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.Http.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.Http.WebHost.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.Mvc.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.Optimization.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.Razor.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.WebPages.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.WebPages.Deployment.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.WebPages.Razor.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\Antlr3.Runtime.pdb
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\Microsoft.AI.WindowsServer.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\Microsoft.AI.Web.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\obj\Debug\WebApi.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\obj\Debug\WebApi.pdb
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\DAL.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\DAL.pdb
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\DAL.dll.config
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.Cors.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.Http.Cors.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\ApplicationInsights.config
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\WebApi.dll.config
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\WebApi.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\WebApi.pdb
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\csc.exe.config
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\csc.rsp
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\csi.exe
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\csi.exe.config
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\csi.rsp
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.Console.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\vbc.rsp
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\BL.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\DTO.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\EntityFramework.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.Cors.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.Helpers.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.Mvc.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.Razor.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.WebPages.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\WebGrease.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\DAL.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\BL.pdb
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\DTO.pdb
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\EntityFramework.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.Helpers.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.Mvc.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.Optimization.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.Razor.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.WebPages.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\DAL.pdb
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\bin\DAL.dll.config
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\obj\Debug\WebApi.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\WebApi\obj\Debug\WebApi.pdb
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\ApplicationInsights.config
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\WebApi.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\WebApi.pdb
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\csc.exe
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\csc.exe.config
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\csc.rsp
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\csi.exe
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\csi.exe.config
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\csi.rsp
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.AppContext.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Collections.Immutable.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Console.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.IO.Compression.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.IO.FileSystem.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.IO.Pipes.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.AccessControl.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.Claims.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.ValueTuple.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XPath.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\vbc.exe
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\vbc.exe.config
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\vbc.rsp
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\VBCSCompiler.exe
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\roslyn\VBCSCompiler.exe.config
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\Antlr3.Runtime.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\BL.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\DTO.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\EntityFramework.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\EntityFramework.SqlServer.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.Web.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.WindowsServer.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\Microsoft.ApplicationInsights.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\Microsoft.Web.Infrastructure.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\Newtonsoft.Json.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Net.Http.Formatting.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.Cors.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.Helpers.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.Http.Cors.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.Http.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.Http.WebHost.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.Mvc.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.Optimization.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.Razor.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.WebPages.Deployment.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.WebPages.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.WebPages.Razor.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\WebGrease.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\DAL.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\BL.pdb
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\DTO.pdb
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\EntityFramework.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\EntityFramework.SqlServer.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Net.Http.Formatting.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.Http.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.Http.Cors.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\Newtonsoft.Json.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.Helpers.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.Http.WebHost.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.Mvc.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.Optimization.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.Razor.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.WebPages.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.WebPages.Deployment.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Web.WebPages.Razor.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\Antlr3.Runtime.pdb
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.WindowsServer.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.Web.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\DAL.pdb
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\DAL.dll.config
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\obj\Debug\WebApi.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\obj\Debug\WebApi.pdb
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\WebApi\bin\WebApi.dll.config
+D:\finalProject\ClubMembersProject\WebApi\bin\ApplicationInsights.config
+D:\finalProject\ClubMembersProject\WebApi\bin\WebApi.dll.config
+D:\finalProject\ClubMembersProject\WebApi\bin\WebApi.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\WebApi.pdb
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\csc.exe
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\csc.exe.config
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\csc.rsp
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\csi.exe
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\csi.exe.config
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\csi.rsp
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.AppContext.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Console.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.IO.Compression.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.IO.Pipes.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.Claims.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.ValueTuple.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XPath.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\vbc.exe
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\vbc.exe.config
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\vbc.rsp
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\VBCSCompiler.exe
+D:\finalProject\ClubMembersProject\WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\finalProject\ClubMembersProject\WebApi\bin\Antlr3.Runtime.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\BL.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\DTO.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\EntityFramework.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\EntityFramework.SqlServer.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.Web.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\Newtonsoft.Json.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Net.Http.Formatting.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.Cors.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.Helpers.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.Http.Cors.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.Http.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.Http.WebHost.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.Mvc.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.Optimization.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.Razor.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.WebPages.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.WebPages.Razor.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\WebGrease.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\DAL.dll
+D:\finalProject\ClubMembersProject\WebApi\bin\BL.pdb
+D:\finalProject\ClubMembersProject\WebApi\bin\DTO.pdb
+D:\finalProject\ClubMembersProject\WebApi\bin\EntityFramework.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\EntityFramework.SqlServer.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Net.Http.Formatting.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.Http.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.Http.Cors.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\Newtonsoft.Json.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.Helpers.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.Http.WebHost.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.Mvc.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.Optimization.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.Razor.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.WebPages.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Web.WebPages.Razor.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\Antlr3.Runtime.pdb
+D:\finalProject\ClubMembersProject\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.Web.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\finalProject\ClubMembersProject\WebApi\bin\DAL.pdb
+D:\finalProject\ClubMembersProject\WebApi\bin\DAL.dll.config
+D:\finalProject\ClubMembersProject\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+D:\finalProject\ClubMembersProject\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+D:\finalProject\ClubMembersProject\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+D:\finalProject\ClubMembersProject\WebApi\obj\Debug\WebApi.dll
+D:\finalProject\ClubMembersProject\WebApi\obj\Debug\WebApi.pdb
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\obj\Debug\WebApi.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\obj\Debug\WebApi.pdb
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\ApplicationInsights.config
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\WebApi.dll.config
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\WebApi.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\WebApi.pdb
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\csc.exe.config
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\csc.rsp
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\csi.exe
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\csi.exe.config
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\csi.rsp
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Console.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\vbc.rsp
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\BL.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\DTO.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\EntityFramework.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.Cors.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.Helpers.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.Mvc.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.Razor.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.WebPages.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\WebGrease.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\DAL.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\BL.pdb
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\DTO.pdb
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\EntityFramework.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.Helpers.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.Mvc.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.Optimization.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.Razor.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.WebPages.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\DAL.pdb
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\bin\DAL.dll.config
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\obj\Debug\WebApi.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\obj\Debug\WebApi.pdb
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\ApplicationInsights.config
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\WebApi.dll.config
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\WebApi.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\WebApi.pdb
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\csc.exe.config
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\csc.rsp
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\csi.exe
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\csi.exe.config
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\csi.rsp
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.Console.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\vbc.rsp
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\BL.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\DTO.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\EntityFramework.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.Cors.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.Helpers.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.Mvc.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.Razor.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.WebPages.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\WebGrease.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\DAL.dll
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\BL.pdb
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\DTO.pdb
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\EntityFramework.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.Helpers.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.Mvc.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.Optimization.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.Razor.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.WebPages.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\DAL.pdb
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\bin\DAL.dll.config
+C:\Users\user1\Desktop\final project\ClubMembersProject\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+D:\פרויקט\ClubMembersProject\WebApi\bin\ApplicationInsights.config
+D:\פרויקט\ClubMembersProject\WebApi\bin\WebApi.dll.config
+D:\פרויקט\ClubMembersProject\WebApi\bin\WebApi.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\WebApi.pdb
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\csc.exe
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\csc.exe.config
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\csc.rsp
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\csi.exe
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\csi.exe.config
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\csi.rsp
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.AppContext.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Console.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.IO.Compression.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.IO.Pipes.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Security.Claims.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.ValueTuple.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XPath.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\vbc.exe
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\vbc.exe.config
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\vbc.rsp
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\VBCSCompiler.exe
+D:\פרויקט\ClubMembersProject\WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\פרויקט\ClubMembersProject\WebApi\bin\Antlr3.Runtime.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\BL.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\DTO.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\EntityFramework.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\EntityFramework.SqlServer.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AI.Web.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\Newtonsoft.Json.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Net.Http.Formatting.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Cors.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Helpers.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Http.Cors.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Http.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Http.WebHost.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Mvc.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Optimization.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Razor.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.WebPages.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.WebPages.Razor.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\WebGrease.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\DAL.dll
+D:\פרויקט\ClubMembersProject\WebApi\bin\BL.pdb
+D:\פרויקט\ClubMembersProject\WebApi\bin\DTO.pdb
+D:\פרויקט\ClubMembersProject\WebApi\bin\EntityFramework.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\EntityFramework.SqlServer.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Net.Http.Formatting.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Http.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Http.Cors.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\Newtonsoft.Json.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Helpers.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Http.WebHost.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Mvc.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Optimization.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Razor.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.WebPages.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Web.WebPages.Razor.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\Antlr3.Runtime.pdb
+D:\פרויקט\ClubMembersProject\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AI.Web.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\פרויקט\ClubMembersProject\WebApi\bin\DAL.pdb
+D:\פרויקט\ClubMembersProject\WebApi\bin\DAL.dll.config
+D:\פרויקט\ClubMembersProject\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+D:\פרויקט\ClubMembersProject\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+D:\פרויקט\ClubMembersProject\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+D:\פרויקט\ClubMembersProject\WebApi\obj\Debug\WebApi.dll
+D:\פרויקט\ClubMembersProject\WebApi\obj\Debug\WebApi.pdb
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\ApplicationInsights.config
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\WebApi.dll.config
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\WebApi.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\WebApi.pdb
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\csc.exe.config
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\csc.rsp
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\csi.exe
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\csi.exe.config
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\csi.rsp
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Console.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\vbc.rsp
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\BL.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\DTO.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\EntityFramework.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Cors.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Helpers.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Mvc.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Razor.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.WebPages.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\WebGrease.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\DAL.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\BL.pdb
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\DTO.pdb
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\EntityFramework.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Helpers.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Mvc.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Optimization.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.Razor.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.WebPages.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\DAL.pdb
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\bin\DAL.dll.config
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\obj\Debug\WebApi.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\WebApi\obj\Debug\WebApi.pdb
+C:\Users\user1\Desktop\‏‏תיקיה חדשה (2)\ClubMembersProject\WebApi\obj\Debug\WebApi.dll
+C:\Users\user1\Desktop\‏‏תיקיה חדשה (2)\ClubMembersProject\WebApi\obj\Debug\WebApi.pdb
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\ApplicationInsights.config
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\WebApi.dll.config
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\WebApi.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\WebApi.pdb
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\csc.exe.config
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\csc.rsp
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\csi.exe
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\csi.exe.config
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\csi.rsp
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.Console.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\vbc.rsp
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\BL.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\DTO.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\EntityFramework.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.Cors.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.Helpers.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.Mvc.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.Razor.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.WebPages.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\WebGrease.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\DAL.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\BL.pdb
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\DTO.pdb
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\EntityFramework.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.Helpers.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.Mvc.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.Optimization.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.Razor.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.WebPages.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\DAL.pdb
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\bin\DAL.dll.config
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\obj\Debug\WebApi.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\WebApi\obj\Debug\WebApi.pdb
+C:\Users\user1\source\test\WebApi\bin\ApplicationInsights.config
+C:\Users\user1\source\test\WebApi\bin\WebApi.dll.config
+C:\Users\user1\source\test\WebApi\bin\WebApi.dll
+C:\Users\user1\source\test\WebApi\bin\WebApi.pdb
+C:\Users\user1\source\test\WebApi\bin\roslyn\csc.exe
+C:\Users\user1\source\test\WebApi\bin\roslyn\csc.exe.config
+C:\Users\user1\source\test\WebApi\bin\roslyn\csc.rsp
+C:\Users\user1\source\test\WebApi\bin\roslyn\csi.exe
+C:\Users\user1\source\test\WebApi\bin\roslyn\csi.exe.config
+C:\Users\user1\source\test\WebApi\bin\roslyn\csi.rsp
+C:\Users\user1\source\test\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\source\test\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\source\test\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.Console.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\source\test\WebApi\bin\roslyn\vbc.exe
+C:\Users\user1\source\test\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\user1\source\test\WebApi\bin\roslyn\vbc.rsp
+C:\Users\user1\source\test\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\source\test\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\source\test\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\user1\source\test\WebApi\bin\BL.dll
+C:\Users\user1\source\test\WebApi\bin\DTO.dll
+C:\Users\user1\source\test\WebApi\bin\EntityFramework.dll
+C:\Users\user1\source\test\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\source\test\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user1\source\test\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user1\source\test\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user1\source\test\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user1\source\test\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\user1\source\test\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user1\source\test\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user1\source\test\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\user1\source\test\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\source\test\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\source\test\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\user1\source\test\WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\source\test\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\source\test\WebApi\bin\System.Web.Cors.dll
+C:\Users\user1\source\test\WebApi\bin\System.Web.Helpers.dll
+C:\Users\user1\source\test\WebApi\bin\System.Web.Http.Cors.dll
+C:\Users\user1\source\test\WebApi\bin\System.Web.Http.dll
+C:\Users\user1\source\test\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\source\test\WebApi\bin\System.Web.Mvc.dll
+C:\Users\user1\source\test\WebApi\bin\System.Web.Optimization.dll
+C:\Users\user1\source\test\WebApi\bin\System.Web.Razor.dll
+C:\Users\user1\source\test\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\source\test\WebApi\bin\System.Web.WebPages.dll
+C:\Users\user1\source\test\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\source\test\WebApi\bin\WebGrease.dll
+C:\Users\user1\source\test\WebApi\bin\DAL.dll
+C:\Users\user1\source\test\WebApi\bin\BL.pdb
+C:\Users\user1\source\test\WebApi\bin\DTO.pdb
+C:\Users\user1\source\test\WebApi\bin\EntityFramework.xml
+C:\Users\user1\source\test\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\source\test\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\source\test\WebApi\bin\System.Web.Http.xml
+C:\Users\user1\source\test\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\user1\source\test\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\user1\source\test\WebApi\bin\System.Web.Helpers.xml
+C:\Users\user1\source\test\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\source\test\WebApi\bin\System.Web.Mvc.xml
+C:\Users\user1\source\test\WebApi\bin\System.Web.Optimization.xml
+C:\Users\user1\source\test\WebApi\bin\System.Web.Razor.xml
+C:\Users\user1\source\test\WebApi\bin\System.Web.WebPages.xml
+C:\Users\user1\source\test\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\source\test\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\source\test\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\user1\source\test\WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user1\source\test\WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\user1\source\test\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user1\source\test\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user1\source\test\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\user1\source\test\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\source\test\WebApi\bin\DAL.pdb
+C:\Users\user1\source\test\WebApi\bin\DAL.dll.config
+C:\Users\user1\source\test\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+C:\Users\user1\source\test\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\test\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\user1\source\test\WebApi\obj\Debug\WebApi.dll
+C:\Users\user1\source\test\WebApi\obj\Debug\WebApi.pdb

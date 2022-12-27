@@ -1,0 +1,48 @@
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DTO\bin\Debug\DTO.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DTO\bin\Debug\DTO.pdb
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DTO\obj\Debug\DTO.dll
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DTO\obj\Debug\DTO.pdb
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+Y:\תשפ\2\רות טולדאנו\project\ClubMembersProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\project\ClubMembersProject\DTO\bin\Debug\DTO.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\DTO\bin\Debug\DTO.pdb
+C:\Users\user1\Desktop\project\ClubMembersProject\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\project\ClubMembersProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\project\ClubMembersProject\DTO\obj\Debug\DTO.dll
+C:\Users\user1\Desktop\project\ClubMembersProject\DTO\obj\Debug\DTO.pdb
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DTO\bin\Debug\DTO.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DTO\bin\Debug\DTO.pdb
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DTO\obj\Debug\DTO.dll
+Y:\תשפ\2\רות טולדאנו\finalProject\ClubMembersProject\DTO\obj\Debug\DTO.pdb
+D:\finalProject\ClubMembersProject\DTO\bin\Debug\DTO.dll
+D:\finalProject\ClubMembersProject\DTO\bin\Debug\DTO.pdb
+D:\finalProject\ClubMembersProject\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\finalProject\ClubMembersProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\finalProject\ClubMembersProject\DTO\obj\Debug\DTO.dll
+D:\finalProject\ClubMembersProject\DTO\obj\Debug\DTO.pdb
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DTO\bin\Debug\DTO.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DTO\bin\Debug\DTO.pdb
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DTO\obj\Debug\DTO.dll
+C:\Users\user1\Desktop\finalProject\ClubMembersProject\DTO\obj\Debug\DTO.pdb
+D:\פרויקט\ClubMembersProject\DTO\bin\Debug\DTO.dll
+D:\פרויקט\ClubMembersProject\DTO\bin\Debug\DTO.pdb
+D:\פרויקט\ClubMembersProject\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\פרויקט\ClubMembersProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\פרויקט\ClubMembersProject\DTO\obj\Debug\DTO.dll
+D:\פרויקט\ClubMembersProject\DTO\obj\Debug\DTO.pdb
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DTO\bin\Debug\DTO.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DTO\bin\Debug\DTO.pdb
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DTO\obj\Debug\DTO.dll
+C:\Users\user1\Desktop\פרויקט\ClubMembersProject\DTO\obj\Debug\DTO.pdb
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DTO\bin\Debug\DTO.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DTO\bin\Debug\DTO.pdb
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DTO\obj\Debug\DTO.dll
+C:\Users\user1\Desktop\חדש פ\ClubMembersProject\DTO\obj\Debug\DTO.pdb

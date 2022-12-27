@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="rutiAndSariProjectModelStoreContainer" CdmEntityContainer="rutiAndSariProjectEntities">
+    <EntitySetMapping Name="ActiveCards">
+      <EntityTypeMapping TypeName="rutiAndSariProjectModel.ActiveCard">
+        <MappingFragment StoreEntitySet="ActiveCards">
+          <ScalarProperty Name="IdActiveCards" ColumnName="IdActiveCards" />
+          <ScalarProperty Name="SumInCard" ColumnName="SumInCard" />
+          <ScalarProperty Name="ValidityDate" ColumnName="ValidityDate" />
+          <ScalarProperty Name="IdClient" ColumnName="IdClient" />
+          <ScalarProperty Name="IdGiftCard" ColumnName="IdGiftCard" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Businesses">
+      <EntityTypeMapping TypeName="rutiAndSariProjectModel.Business">
+        <MappingFragment StoreEntitySet="Business">
+          <ScalarProperty Name="IdBusiness" ColumnName="IdBusiness" />
+          <ScalarProperty Name="LogoBusiness" ColumnName="LogoBusiness" />
+          <ScalarProperty Name="IdCategory" ColumnName="IdCategory" />
+          <ScalarProperty Name="NameBusiness" ColumnName="NameBusiness" />
+          <ScalarProperty Name="PriceClub" ColumnName="PriceClub" />
+          <ScalarProperty Name="Validity" ColumnName="Validity" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="EmailBusiness" ColumnName="EmailBusiness" />
+          <ScalarProperty Name="PasswordBusiness" ColumnName="PasswordBusiness" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CardsPerStores">
+      <EntityTypeMapping TypeName="rutiAndSariProjectModel.CardsPerStore">
+        <MappingFragment StoreEntitySet="CardsPerStore">
+          <ScalarProperty Name="IdCardsPerStore" ColumnName="IdCardsPerStore" />
+          <ScalarProperty Name="IdBusiness" ColumnName="IdBusiness" />
+          <ScalarProperty Name="IdGiftCard" ColumnName="IdGiftCard" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Clients">
+      <EntityTypeMapping TypeName="rutiAndSariProjectModel.Client">
+        <MappingFragment StoreEntitySet="Clients">
+          <ScalarProperty Name="IdClient" ColumnName="IdClient" />
+          <ScalarProperty Name="BornDateClient" ColumnName="BornDateClient" />
+          <ScalarProperty Name="TzClient" ColumnName="TzClient" />
+          <ScalarProperty Name="NameClient" ColumnName="NameClient" />
+          <ScalarProperty Name="PhoneClient" ColumnName="PhoneClient" />
+          <ScalarProperty Name="EmailClient" ColumnName="EmailClient" />
+          <ScalarProperty Name="PasswordClient" ColumnName="PasswordClient" />
+          <ScalarProperty Name="IdBusiness" ColumnName="IdBusiness" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="AdressClient" ColumnName="AdressClient" />
+          <ScalarProperty Name="Lat" ColumnName="Lat" />
+          <ScalarProperty Name="Lng" ColumnName="Lng" />
+          <ScalarProperty Name="Distance" ColumnName="Distance" />
+          <ScalarProperty Name="NotificationOnOff" ColumnName="NotificationOnOff" />
+          <ScalarProperty Name="SoundNotification" ColumnName="SoundNotification" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ClientToBusinesses">
+      <EntityTypeMapping TypeName="rutiAndSariProjectModel.ClientToBusiness">
+        <MappingFragment StoreEntitySet="ClientToBusiness">
+          <ScalarProperty Name="IdClientToBusiness" ColumnName="IdClientToBusiness" />
+          <ScalarProperty Name="IdBusiness" ColumnName="IdBusiness" />
+          <ScalarProperty Name="IdClient" ColumnName="IdClient" />
+          <ScalarProperty Name="EnterDate" ColumnName="EnterDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DayInWeeks">
+      <EntityTypeMapping TypeName="rutiAndSariProjectModel.DayInWeek">
+        <MappingFragment StoreEntitySet="DayInWeek">
+          <ScalarProperty Name="IdDay" ColumnName="IdDay" />
+          <ScalarProperty Name="NameDay" ColumnName="NameDay" />
+          <ScalarProperty Name="NameDayEn" ColumnName="NameDayEn" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GiftCardToBusinesses">
+      <EntityTypeMapping TypeName="rutiAndSariProjectModel.GiftCardToBusiness">
+        <MappingFragment StoreEntitySet="GiftCardToBusiness">
+          <ScalarProperty Name="IdGiftCardToBusiness" ColumnName="IdGiftCardToBusiness" />
+          <ScalarProperty Name="IdGiftCard" ColumnName="IdGiftCard" />
+          <ScalarProperty Name="IdBusiness" ColumnName="IdBusiness" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KindGiftCards">
+      <EntityTypeMapping TypeName="rutiAndSariProjectModel.KindGiftCard">
+        <MappingFragment StoreEntitySet="KindGiftCard">
+          <ScalarProperty Name="IdGiftCard" ColumnName="IdGiftCard" />
+          <ScalarProperty Name="NameGiftCard" ColumnName="NameGiftCard" />
+          <ScalarProperty Name="LogoGiftCard" ColumnName="LogoGiftCard" />
+          <ScalarProperty Name="IsPublic" ColumnName="IsPublic" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KindSales">
+      <EntityTypeMapping TypeName="rutiAndSariProjectModel.KindSale">
+        <MappingFragment StoreEntitySet="KindSales">
+          <ScalarProperty Name="IdKindSale" ColumnName="IdKindSale" />
+          <ScalarProperty Name="NameKindSale" ColumnName="NameKindSale" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OpenHours">
+      <EntityTypeMapping TypeName="rutiAndSariProjectModel.OpenHour">
+        <MappingFragment StoreEntitySet="OpenHours">
+          <ScalarProperty Name="IdOpenHours" ColumnName="IdOpenHours" />
+          <ScalarProperty Name="IdStore" ColumnName="IdStore" />
+          <ScalarProperty Name="IdDay" ColumnName="IdDay" />
+          <ScalarProperty Name="OpenTime" ColumnName="OpenTime" />
+          <ScalarProperty Name="CloseTime" ColumnName="CloseTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sales">
+      <EntityTypeMapping TypeName="rutiAndSariProjectModel.Sale">
+        <MappingFragment StoreEntitySet="Sales">
+          <ScalarProperty Name="IdSale" ColumnName="IdSale" />
+          <ScalarProperty Name="IdBusiness" ColumnName="IdBusiness" />
+          <ScalarProperty Name="KindSale" ColumnName="KindSale" />
+          <ScalarProperty Name="DiscriptionSale" ColumnName="DiscriptionSale" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+          <ScalarProperty Name="IsMember" ColumnName="IsMember" />
+          <ScalarProperty Name="IsValidity" ColumnName="IsValidity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Stores">
+      <EntityTypeMapping TypeName="rutiAndSariProjectModel.Store">
+        <MappingFragment StoreEntitySet="Stores">
+          <ScalarProperty Name="IdStore" ColumnName="IdStore" />
+          <ScalarProperty Name="IdBusiness" ColumnName="IdBusiness" />
+          <ScalarProperty Name="WeekDayOpen" ColumnName="WeekDayOpen" />
+          <ScalarProperty Name="Lat" ColumnName="Lat" />
+          <ScalarProperty Name="Lng" ColumnName="Lng" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="NameStore" ColumnName="NameStore" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

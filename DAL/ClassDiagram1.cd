@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DAL.ActiveCardDAL" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAgAAAAQAAAAAAAQgA=</HashCode>
+      <FileName>ActiveCardDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.BusinessDAL" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAABAAAAAAAEABAAAAAAAAAQAAAA=</HashCode>
+      <FileName>BusinessDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.ClientDAL" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAEAAAAAAgAAAAAACIAAAAAABAAAAAAAABAAAAAAQ=</HashCode>
+      <FileName>ClientDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.ClientToBusinessDAL" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClientToBusinessDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.rutiAndSariProjectEntities" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAAABAAAQAAAEACAABAAAGAAAEgAAAAEAAQAAAAA=</HashCode>
+      <FileName>FinalProject.Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.ActiveCard" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAQAAAAAAAAAAAEAAAAAAAAAAEAAABAEIAAQ=</HashCode>
+      <FileName>ActiveCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.Business" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAEAAAAAMACAABAgCKAAAAEAAEQEgIQAAIAA=</HashCode>
+      <FileName>Business.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.CardsPerStore" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAEAIAAAAACAAAAACAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>CardsPerStore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.Client" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAAAQAAGAAAQAECAEQAAAiCAAIEABAAQAABAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.ClientToBusiness" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAACAAgAAAAAAAgABAAAAAQ=</HashCode>
+      <FileName>ClientToBusiness.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.DayInWeek" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAQAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>DayInWeek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.GiftCardToBusiness" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAEAIAAAQAAAAAAACAAAAEAAAAAAAAAEAAAA=</HashCode>
+      <FileName>GiftCardToBusiness.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.KindGiftCard" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACGAAAAAAAAEAAAEAAAA=</HashCode>
+      <FileName>KindGiftCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.KindSale" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAACAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KindSale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.OpenHour" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAgAAIAAAAAAAAABAAAAAIQAAAAg=</HashCode>
+      <FileName>OpenHour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.Sale" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAABAEAAgAQAAAAAAIAiAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Sale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.Store" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAAAAAAGAQAAAAAAAAIAACAAAAAAACAAAAAAQAAAA=</HashCode>
+      <FileName>Store.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.GiftCardDAL" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>GiftCardDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.GiftCardToBusinessDAL" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GiftCardToBusinessDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.OpenHoursDAL" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OpenHoursDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.SaleDAL" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAKIAAAAAAAAAAAAAACAQAAA=</HashCode>
+      <FileName>SaleDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.StoreDAL" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAKAAAAQAAAAIAAAAQAAAABAAAAAAAAAAEAiAA=</HashCode>
+      <FileName>StoreDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.WeekDaysDAL" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WeekDaysDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
